@@ -1,6 +1,5 @@
-# Diya Token (DA) Smart Contract
-
-This repository contains the smart contract code for the Diya Token (DA), an ERC-20 compliant token on the Ethereum blockchain.
+# ERC20 SMART CONTRACT USAGE AND OVERRIDE
+This contract is for practicing erc20 smartcontract implementation through template to create new token (Diya(DA)) and use other funcions.
 
 ## Overview
 
